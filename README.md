@@ -1,1 +1,6 @@
-# Volar-v0.38.0-Test
+Project created with
+```
+$pnpm vite create
+-> vue
+-> vue-ts
+```
